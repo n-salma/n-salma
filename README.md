@@ -1,5 +1,6 @@
 ### Hi there 👋
   I'm a Cybersecurity student who is interested in pentesting, incident responce, deployment architecture, containers and cloud-native technology.
+  Currently going through TryHackMe and Letsdefend rooms and challenges.
   
   - 🔭 Latest projects
     - Network scanning app using Java
