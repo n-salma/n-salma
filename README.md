@@ -1,17 +1,15 @@
 ### Hi there 👋
-  I'm a Cybersecurity student who is interested in pentesting, incident responce, deployment architecture, containers and cloud-native technology.
+  I'm a Cybersecurity student who is interested in incident responce and SOC.
   Currently going through TryHackMe and Letsdefend rooms and challenges.
   
   - 🔭 Latest projects
-    - Network scanning app using Java
+    - SOC detection lab
     - Brute Force attack analysis using Azure Sentinel
     - An Active Directory administration lab
     - Crisis management challenge 
 
   - 🌱 I’m currently learning
-    - Automation
-    -  containarization
-    -  SOC
+    - how to detect malware
      
 <!--
 **n-salma/n-salma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
